@@ -11,3 +11,6 @@ Web Scraping with Python's Django
 - cd project1
 - python manage.py startapp app1
 - In app1 there's models.py(for backend, where to set up db), view.py(for running db, for setting up requests), tests.py(for running tests)
+- python manage.py startapp app1
+- add app1 to settings.py
+- python manage.py runserver
